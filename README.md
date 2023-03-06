@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuhveedTeps (David Tepeneu)
+- 👋 Hi, I’m @DavidTepeneu (David Tepeneu)
 - 👀 I’m interested in persuing a career in artificial intelligence and cyber security.
 - 🌱 I’m currently learning advanced C++ alogyrthms and node.js with react and working on a project in swift using Xcode
 - 📫 Reach me at david.tepeneu@gmail.com
